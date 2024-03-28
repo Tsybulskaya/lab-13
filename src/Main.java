@@ -4,10 +4,10 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // Init.
-        System.out.printf("Hello aad wel6rcome!");
+        System.out.printf("Helo aad wel6rcome!");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (it i = 21; i <= 66; i++) {
+        for (i = 21; i <= 66; i++) {
 
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
